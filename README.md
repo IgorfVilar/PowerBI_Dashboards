@@ -22,3 +22,9 @@ Análise de dados com o Microsoft Power BI
 - Análise do faturamento
 - Análise de produtos
 - Análise dos clientes
+
+  04 - Dashboard desevolvido para demonstrar relatório financeiro dos anos de 2021 e 2022 de empresa do setor de vendas, produzido no curso Imersão Power BI.
+
+- Análise geral da movimentação financeira
+- Análise de despesas por setor
+- Análise detalhada de entradas e saídas
